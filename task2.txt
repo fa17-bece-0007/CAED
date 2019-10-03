@@ -1,0 +1,7 @@
+#Task2
+
+An important part of the Unified Modeling Language (UML) is the 
+capability for drawing use case diagrams. Use cases are used during the analysis 
+phase of a project to identify system functionality. They separate the system into actors 
+and use cases.
+Actors represent roles that are played by users of the system
